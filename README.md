@@ -1,2 +1,1 @@
-Components used by IPTVPlayer 
-https://gitlab.com/iptvplayer-for-e2/iptvplayer-for-e2
+Components used by https://github.com/OpenVisionE2/e2iplayer-ov
